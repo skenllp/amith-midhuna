@@ -1823,13 +1823,3 @@ body.scroll-locked {
   }
 }
 
-
-/* Monogram shown in the couple photo rings (replaces the previous couple's photos) */
-.photo-monogram {
-  font-family: var(--font-script);
-  font-size: 4.2rem;
-  line-height: 1;
-  color: var(--blue-royal);
-  padding-top: 6px;
-  user-select: none;
-}
